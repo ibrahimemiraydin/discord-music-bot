@@ -1,5 +1,5 @@
 # discord-music-bot
-A Discord bot for playing music from YouTube and other sources
+A Discord bot for playing music from YouTube
 
 **Music Bot Commands:**
 - \`!play <song name or URL>\`: Add a song to the queue and play it.

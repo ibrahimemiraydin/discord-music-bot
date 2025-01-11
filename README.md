@@ -7,3 +7,5 @@ A Discord bot for playing music from YouTube
 - \`!skip\`: Skip the current song.
 - \`!stop\`: Stop the music and clear the queue.
 - \`!help\`: Show this help message.
+
+yt-dlp required
